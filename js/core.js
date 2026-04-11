@@ -11,7 +11,7 @@ const anita_config = {
     // Main Menu config for quick and same result for all pages.
     // Use 'Label' : 'url' for menu items and 'Label' : { ... } for Submenus. Don't forget about commas after each item.
    main_menu: {
-        'Home' : 'index',
+        'Home' : 'index.html',
         /*'Works': {
             'Slide Carousel': 'index.html',
             'Roll Carousel': 'works-carousel-roll.html',
@@ -27,18 +27,18 @@ const anita_config = {
         },*/
         'Projects': {
             
-            'Commercials': 'commercial',
-            'Architecture': 'architecture',
-           'Foods': 'foods',
-           'Products': 'products',
-           'Industry': 'industry',
+            'Commercials': 'commercial.html',
+            'Architecture': 'architecture.html',
+           'Foods': 'foods.html',
+           'Products': 'products.html',
+           'Industry': 'industry.html',
             
         },
         
-        'About': 'about',
-        'Testimonials': 'testimonials',
+        'About': 'about.html',
+        'Testimonials': 'testimonials.html',
         
-        'Contact': 'contact'
+        'Contact': 'contact.html'
     },
 
     // Option to stick the header to the top of the page

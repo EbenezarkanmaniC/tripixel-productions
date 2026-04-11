@@ -24,7 +24,7 @@ const anita_config = {
     //   "Classic Grid": "works-classic-grid.html",
     //   "Simple Menu": "simple-menu.html",
     // },
-    Home: "index.html",
+    Home: "/",
     
       // 'Slider': {
       //     'Parallax Movement': 'albums-slider-parallax.html',
